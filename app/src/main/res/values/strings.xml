@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Dialog</string>
+    <string name="first_activity">First activity</string>
+    <string name="second_activity">Second activity</string>
+    <string name="dialogbtn">Dialog</string>
+    <string name="goTo2">Go to 2nd</string>
+    <string name="goBack">Back</string>
+    <string-array name="students">
+        <item>Roberts Bišs</item>
+        <item>Bernhards Bergholds</item>
+        <item>Kristaps Kārlis Cīrulis</item>
+    </string-array>
+    <string name="dialog_message">Message</string>
+    <string name="dialog_title">4th Group’s Dialog</string>
+    <string name="close">Close</string>
+    <string name="ok">OK</string>
+</resources>
